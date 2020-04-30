@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>{{ page.title }}</title>
+      <!-- link to main stylesheet -->
+      <link rel="stylesheet" type="text/css" href="/css/main.css">
+      <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | absolute_url }}">
+    </head>
+    <body>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+      <div class="header-bar">
+      <nav>
+          <ul style="float:right;">
+              <li><a href="/">Home</a></li>
+              <li><a href="/projects">Projects</a></li>
+              <li><a href="/coursework">Course-Work</a></li>
+              <li><a href="/publications">Publications</a></li>
+              <li><a href="/blog">Blog</a></li>
+          </ul>
+      </nav>
+      <h1 class="page-title">Shashank Sharma</h1>
+      </div>
+      <div class = main-body>
+      <div id="my-image">
+      <img src="{{ "/assets/shashank.png" | absolute_url }}" alt="Shashank" style="width:100%">
+      </div>
+      <div class="home-container">
+
+      {{ content }}
+
+      </div><!-- /.container -->
+      </div>
+      <footer style="border-top: 1px solid #d5d5d5">
+              <h3>Let's Get Connected<h3>
+          <ul>
+              <li><a href="mailto:shashank.sharma@stonybrook.edu">Email</a></li>
+              <li><a href="https://github.com/ssharma1991">Github</a></li>
+              <li><a href="https://www.linkedin.com/in/ssharma1991/">LinkedIn</a></li>
+        </ul>
+      </footer>
+    </body>
+  </html>

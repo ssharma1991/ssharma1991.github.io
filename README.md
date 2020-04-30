@@ -1,4 +1,4 @@
-USE GITHUB PAGES ON WINDOWS
+# Using Github Pages on Windows
 
 Install Jekyll
 - follow Jekyll documentation for windows
@@ -16,3 +16,7 @@ Test Website Offline
 - bundle update
 - bundle exec jekyll serve
 - http://127.0.0.1:4000/
+
+# Hosting My Personal Website using GitHub Pages
+
+I built this website with help of awesome guide by [Jonathan McGlone](http://jmcglone.com/guides/github-pages/) which uses [Jekyll](https://jekyllrb.com/docs/home/), a simple, blog-aware, static site generator.
