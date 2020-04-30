@@ -17,7 +17,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+a{
+    text-decoration: none;
+    color: #4e91a5;
+}
+.header-bar a {
     text-decoration: none;
     color: #999;
 }
@@ -52,10 +56,10 @@ min-height: 80%;
 .home-container{
 width: 60%;
 min-height: 80%;
-
+}
 .main-body{
  min-height: 20em;
-  }
+}
 
 /*
 h1 {
