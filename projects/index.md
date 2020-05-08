@@ -12,9 +12,9 @@ title: Projects
     - Both iOS and Android apps have been created using Apache Cordova framework.
 
     <div class="center">
-    <img src="../assets/projects/MotionGen1.gif" class="center" style="width:40%;">
-    <img src="../assets/projects/MotionGen2.gif" class="center" style="width:35%;">
-    <img src="../assets/projects/MotionGen3.gif" class="center" style="width:30%;">
+    <img src="../assets/projects/MotionGen1.gif" style="width:36%;">
+    <img src="../assets/projects/MotionGen2.gif" style="width:32%;">
+    <img src="../assets/projects/MotionGen3.gif" style="width:29%;">
     </div>
     
 
@@ -26,26 +26,26 @@ title: Projects
     - Developing machine learning based techniques for path synthesis using spatial platform linkages.
     
     <div class="center">
-    <img src="../assets/projects/MotionGen_Motion.gif" class="center" style="width:25%;">
-    <img src="../assets/projects/MotionGen_path.gif" class="center" style="width:38%;">
-    <img src="../assets/projects/MotionGen_Mixed.gif" class="center" style="width:34%;">
+    <img src="../assets/projects/MotionGen_Motion.gif" style="width:25%;">
+    <img src="../assets/projects/MotionGen_path.gif" style="width:38%;">
+    <img src="../assets/projects/MotionGen_Mixed.gif" style="width:34%;">
     </div>
     <div class="center">
-    <img src="../assets/projects/Simulation1.gif" class="center" style="width:48%;">
-    <img src="../assets/projects/Simulation2.gif" class="center" style="width:50%;">
+    <img src="../assets/projects/Simulation1.gif" style="width:48%;">
+    <img src="../assets/projects/Simulation2.gif" style="width:50%;">
     </div>
     {% comment %} 
     <div class="center">
-    <img src="../assets/projects/Simulation3.png" class="center" style="width:17%;">
-    <img src="../assets/projects/Simulation4.png" class="center" style="width:34%;">
-    <img src="../assets/projects/Simulation5.png" class="center" style="width:23%;">
-    <img src="../assets/projects/Simulation6.png" class="center" style="width:23%;">
+    <img src="../assets/projects/Simulation3.png" style="width:17%;">
+    <img src="../assets/projects/Simulation4.png" style="width:34%;">
+    <img src="../assets/projects/Simulation5.png" style="width:23%;">
+    <img src="../assets/projects/Simulation6.png" style="width:23%;">
     </div>
     {% endcomment %}
     <div class="center">
-    <img src="../assets/projects/Sph1.gif" class="center" style="width:34%;">
-    <img src="../assets/projects/Sph2.gif" class="center" style="width:31%;">
-    <img src="../assets/projects/Sph3.gif" class="center" style="width:31%;">
+    <img src="../assets/projects/Sph1.gif" style="width:34%;">
+    <img src="../assets/projects/Sph2.gif" style="width:31%;">
+    <img src="../assets/projects/Sph3.gif" style="width:31%;">
     </div>
 
 - ### Robotics
@@ -54,8 +54,8 @@ title: Projects
     - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
 
     <div class="center">
-    <img src="../assets/projects/snappyxo1.gif" class="center" style="width:42%;">
-    <img src="../assets/projects/snappyxo2.gif" class="center" style="width:56%;">
+    <img src="../assets/projects/snappyxo1.gif" style="width:42%;">
+    <img src="../assets/projects/snappyxo2.gif" style="width:56%;">
     </div>
 
 

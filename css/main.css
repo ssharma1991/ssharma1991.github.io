@@ -68,8 +68,5 @@ ul.posts li {
 }
 
 .center{
-    display: flex;
-    display: -webkit-flex;
-    margin-left: auto;
-    margin-right: auto;
+    text-align:center
 }

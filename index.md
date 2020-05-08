@@ -4,7 +4,7 @@ title: Shashank Sharma
 ---
 
 <div>
-    <img src="../assets/shashank.png" class="center" style="width:40%;float:right;">
+    <img src="../assets/shashank.png" class="center" style="width:40%;float:right;max-width:250px">
 </div>
 
 
