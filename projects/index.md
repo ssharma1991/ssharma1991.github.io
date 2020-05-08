@@ -4,8 +4,8 @@ title: Projects
 ---
 
 ## Research Assistant @ CAD Innovation and Engineering Lab
-- ### Mechanism Design Software
-    [Github](https://github.com/ssharma1991/MotionGen-Server)
+- ### Mechanism Design Software [(link)](https://github.com/ssharma1991/MotionGen-Server)
+
     - Developing a Computational Framework for Data-Driven Mechanism Design Innovation supported by $450K [NSF grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1563413).
     - Created [MotionGen](http://cadcam.eng.sunysb.edu/) a web-based mechanism design framework. 
     - It uses MEAN (MongoDB, Express.js, Angular.js, Node.js) stack to create a RESTful web service based on MVC architecture. 
@@ -60,11 +60,11 @@ title: Projects
 
 
 ## Autonomous Vehicle Projects @ Udacity Nanodegree Program 
-- ### Lane Detection
+- ### Lane Detection [(link1)](https://github.com/ssharma1991/autonomous-car-basic-lane-detection), [(link2)](https://github.com/ssharma1991/autonomous-car-advanced-lane-detection)
     - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live-feed from dashcam.
     - Calculated the car's position within lane and lane curvature using perspective transform and polynomial fitting.
 
-- ### Traffic Sign Classification
+- ### Traffic Sign Classification [(link)](https://github.com/ssharma1991/autonomous-car-traffic-sign-classification)
     - Developed a LeNet inspired convolution neural network using TensorFlow to classify the GTSRB traffic sign dataset.
     - Achieved 94.8% accuracy on test dataset by data augmentation and image enhancement using OpenCV.
 
