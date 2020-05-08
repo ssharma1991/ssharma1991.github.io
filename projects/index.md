@@ -27,7 +27,7 @@ title: Projects
     
     <div class="center">
     <img src="../assets/projects/MotionGen_Motion.gif" class="center" style="width:25%;  max-width:500px;">
-    <img src="../assets/projects/MotionGen_Path.gif" class="center" style="width:38%;  max-width:500px;">
+    <img src="../assets/projects/MotionGen_path.gif" class="center" style="width:38%;  max-width:500px;">
     <img src="../assets/projects/MotionGen_Mixed.gif" class="center" style="width:34%;  max-width:500px;">
     </div>
     <div class="center">
