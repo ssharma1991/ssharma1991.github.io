@@ -84,3 +84,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.center{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

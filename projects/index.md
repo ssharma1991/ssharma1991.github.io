@@ -5,10 +5,18 @@ title: Projects
 
 ## Research Assistant @ CAD Innovation and Engineering Lab
 - ### Mechanism Design Software
+    [Github](https://github.com/ssharma1991/MotionGen-Server)
     - Developing a Computational Framework for Data-Driven Mechanism Design Innovation supported by $450K [NSF grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1563413).
     - Created [MotionGen](http://cadcam.eng.sunysb.edu/) a web-based mechanism design framework. 
     - It uses MEAN (MongoDB, Express.js, Angular.js, Node.js) stack to create a RESTful web service based on MVC architecture. 
     - Both iOS and Android apps have been created using Apache Cordova framework.
+
+    <div class="center">
+    <img src="../assets/projects/MotionGen1.gif" class="center" style="width:40%;  max-width:300px;">
+    <img src="../assets/projects/MotionGen2.gif" class="center" style="width:35%;  max-width:300px;">
+    <img src="../assets/projects/MotionGen3.gif" class="center" style="width:30%;  max-width:300px;">
+    </div>
+    
 
 - ### Research and Algorithms
     - Path synthesis of mechanisms based on Fourier descriptor fitting using Nelder-Mead and Simulated Annealing optimization.
@@ -16,10 +24,39 @@ title: Projects
     - Real-time simulation of planar, spherical and spatial mechanisms with prismatic and revolute joints using Newton-Raphson optimization.
     - Developed unified planar, spherical and spatial mechanisms synthesis techniques using Homotopy methods for simultaneous type and dimensional synthesis.
     - Developing machine learning based techniques for path synthesis using spatial platform linkages.
+    
+    <div class="center">
+    <img src="../assets/projects/MotionGen_Motion.gif" class="center" style="width:25%;  max-width:500px;">
+    <img src="../assets/projects/MotionGen_Path.gif" class="center" style="width:38%;  max-width:500px;">
+    <img src="../assets/projects/MotionGen_Mixed.gif" class="center" style="width:34%;  max-width:500px;">
+    </div>
+    <div class="center">
+    <img src="../assets/projects/Simulation1.gif" class="center" style="width:48%;  max-width:500px;">
+    <img src="../assets/projects/Simulation2.gif" class="center" style="width:50%;  max-width:500px;">
+    </div>
+    {% comment %} 
+    <div class="center">
+    <img src="../assets/projects/Simulation3.png" class="center" style="width:17%;  max-width:500px;">
+    <img src="../assets/projects/Simulation4.png" class="center" style="width:34%;  max-width:500px;">
+    <img src="../assets/projects/Simulation5.png" class="center" style="width:23%;  max-width:500px;">
+    <img src="../assets/projects/Simulation6.png" class="center" style="width:23%;  max-width:500px;">
+    </div>
+    {% endcomment %}
+    <div class="center">
+    <img src="../assets/projects/Sph1.gif" class="center" style="width:34%;  max-width:500px;">
+    <img src="../assets/projects/Sph2.gif" class="center" style="width:31%;  max-width:500px;">
+    <img src="../assets/projects/Sph3.gif" class="center" style="width:31%;  max-width:500px;">
+    </div>
 
 - ### Robotics
     - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. 
     - It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
+    - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
+
+    <div class="center">
+    <img src="../assets/projects/snappyxo1.gif" class="center" style="width:42%;  max-width:500px;">
+    <img src="../assets/projects/snappyxo2.gif" class="center" style="width:56%;  max-width:500px;">
+    </div>
 
 
 ## Autonomous Vehicle Projects @ Udacity Nanodegree Program 
