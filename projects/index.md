@@ -26,13 +26,13 @@ title: Projects
     - Developing machine learning based techniques for path synthesis using spatial platform linkages.
     
     <div class="center">
+    <img src="../assets/projects/Simulation1.gif" style="width:48%;">
+    <img src="../assets/projects/Simulation2.gif" style="width:50%;">
+    </div>
+    <div class="center">
     <img src="../assets/projects/MotionGen_Motion.gif" style="width:25%;">
     <img src="../assets/projects/MotionGen_path.gif" style="width:38%;">
     <img src="../assets/projects/MotionGen_Mixed.gif" style="width:34%;">
-    </div>
-    <div class="center">
-    <img src="../assets/projects/Simulation1.gif" style="width:48%;">
-    <img src="../assets/projects/Simulation2.gif" style="width:50%;">
     </div>
     {% comment %} 
     <div class="center">
