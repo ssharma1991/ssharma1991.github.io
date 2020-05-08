@@ -1,7 +1,13 @@
 ---
-layout: home
+layout: default
 title: Shashank Sharma
 ---
+
+<div>
+    <img src="../assets/shashank.png" class="center" style="width:40%;float:right;">
+</div>
+
+
 ### “Engineering is the closest thing to magic that exists in the real world” — Elon Musk
 
 I'm a Self Driving Car and Robotics Engineer who loves working on the latest trends in automation. I'm excited about using my interdisciplinary knowledge to solve challenging problems in transportation, manufacturing, and healthcare industry.

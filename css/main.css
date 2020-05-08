@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 75%;
 }
 html *
 {
@@ -28,20 +28,10 @@ a{
 a:hover {
     text-decoration: underline;
 }
-
-#my-image{
-  width: 29%;
-  float: right;
-  padding-top: 1em;
-  position: relative;
-  right: 3em;
-}
-
 .header-bar{
 display: grid;
 border-bottom: 1px solid #d5d5d5;
 }
-
 .page-title{
 float:left;
 color: #1e7f9e;
@@ -51,14 +41,6 @@ margin-top: 0px;
 .container{
 width: 100%;
 min-height: 80%;
-}
-
-.home-container{
-width: 60%;
-min-height: 80%;
-}
-.main-body{
- min-height: 20em;
 }
 
 /*
