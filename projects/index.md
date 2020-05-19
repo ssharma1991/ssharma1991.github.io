@@ -34,14 +34,6 @@ title: Projects
     <img src="../assets/projects/MotionGen_path.gif" style="width:38%;">
     <img src="../assets/projects/MotionGen_Mixed.gif" style="width:34%;">
     </div>
-    {% comment %} 
-    <div class="center">
-    <img src="../assets/projects/Simulation3.png" style="width:17%;">
-    <img src="../assets/projects/Simulation4.png" style="width:34%;">
-    <img src="../assets/projects/Simulation5.png" style="width:23%;">
-    <img src="../assets/projects/Simulation6.png" style="width:23%;">
-    </div>
-    {% endcomment %}
     <div class="center">
     <img src="../assets/projects/Sph1.gif" style="width:34%;">
     <img src="../assets/projects/Sph2.gif" style="width:31%;">
@@ -71,35 +63,55 @@ title: Projects
 - ### Traffic Light Awareness
     - Used SSD Mobilenet for real-time traffic light detection and classification.
 
-- ### Behavioral Cloning
+- ### Behavioral Cloning [(link)](https://github.com/ssharma1991/autonomous-car-behavioral-cloning)
     - Designed an end-to-end convolution neural network using Keras that predicts steering angles from dash-cam images.
     - Successfully cloned human driving behavior to autonomously steer a car around a virtual test track after neural network tuning and data
     augmentation.
 
-- ### Sensor Fusion
+- ### Sensor Fusion [(link)](https://github.com/ssharma1991/autonomous-car-sensor-fusion)
     - Implemented car location estimation algorithm using extended Kalman Filter based on LIDAR and RADAR sensors data.
 
-- ### Localization 
+- ### Localization [(link)](https://github.com/ssharma1991/autonomous-car-localization)
     - A 2D particle filter for sparse localization is designed and uses GPS and sensor data with a landmark map.
 
-- ### Trajectory Planning
+- ### Trajectory Planning [(link)](https://github.com/ssharma1991/autonomous-car-highway-driving)
     - A Finite State Machine based planner is created to achieve autonomous highway driving with other cars.
     - Jerk minimized trajectories are considered to enhance occupant safety.
 
-- ### Control
+- ### Control [(link)](https://github.com/ssharma1991/autonomous-car-PID-control)
     - A PID controller is implemented to maneuver a vehicle around a virtual track using steering, throttle and brake. 
 
 - ### System Integration
     - Robot Operation System (ROS) is used to robustly combine Perception, Planning, and Control.
+
+<div class="center">
+    <img src="../assets/projects/car1_behavioral_cloning.gif" style="width:56%;">
+    <img src="../assets/projects/car2_highway_driving.gif" style="width:43%;">
+</div>
+<div class="center">
+    <img src="../assets/projects/car3_basic_lane.gif" style="width:38%;">
+    <img src="../assets/projects/car4_PID.gif" style="width:27%;">
+    <img src="../assets/projects/car5_sensor_fusion.gif" style="width:34%;">
+</div>
 
 
 ## Product Design @ Vivonics, Inc.
 - Coordinated with design team on developing PMT Monitor, a portable medical headset which detects head trauma.
 - Generated concepts for a mechanism which adjusts the interpupillary distance between the lenses focusing on manufacturability and robustness.
 
+<div class="center">
+    <img src="../assets/projects/vivonics_PMT1.jpg" style="width:70%;">
+    <img src="../assets/projects/vivonics_PMT2.png" style="width:28.5%;">
+</div>
+
 ## Design and Manufacturing @ Leviathan Energy
 - Designed and manufactured Hydro-kinetic turbine with improved airfoil design which produce 50% more power in collaboration with Leviathan Energy.
 - Created engineering models using Solidworks and Autodesk Inventor and fabricated parts by FDM based 3D printing.
+
+<div class="center">
+    <img src="../assets/projects/leviathan_blade1.png" style="width:53%;">
+    <img src="../assets/projects/leviathan_blade2.jpg" style="width:45.5%;">
+</div>
 
 ## Research Fellow @ Indian Institute of Information Technology, Jabalpur
 - Led a $70k+ research project funded by the Science and Engineering Research Board titled “Development of Additive-Subtractive Integrated Rapid Prototyping System for Improved Part Quality”.
