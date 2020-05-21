@@ -44,6 +44,7 @@ title: Projects
     - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. 
     - It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
     - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
+    - Mentored multiple teams, as part of the Vertically Integrated Projects (VIP) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones and Bots with alternative microcontrollers.
 
     <div class="center">
     <img src="../assets/projects/snappyxo1.gif" style="width:42%;">
@@ -89,9 +90,9 @@ title: Projects
     <img src="../assets/projects/car2_highway_driving.gif" style="width:43%;">
 </div>
 <div class="center">
-    <img src="../assets/projects/car3_basic_lane.gif" style="width:38%;">
-    <img src="../assets/projects/car4_PID.gif" style="width:27%;">
-    <img src="../assets/projects/car5_sensor_fusion.gif" style="width:34%;">
+    <img src="../assets/projects/car3_basic_lane.gif" style="width:37%;">
+    <img src="../assets/projects/car4_PID.gif" style="width:26.5%;">
+    <img src="../assets/projects/car5_sensor_fusion.gif" style="width:33%;">
 </div>
 
 
