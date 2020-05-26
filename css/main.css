@@ -12,6 +12,7 @@ header ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    margin: 10px 0px
 }
 header ul li, footer ul li {
     display: inline;
