@@ -15,7 +15,7 @@ title: Publications
 ## Conference Papers
 -  Sharma S., Purwar A. __"Path Synthesis of Defect-free Spatial 5-SS Mechanisms using Machine Learning"__, ASME  IDETC-CIE2020 \[[PDF]({{ "/assets/papers/conf5.pdf" | absolute_url }})\]
 
--  Sharma S., Purwar A. __"Unified Motion Synthesis of Spatial and Planar Mechanisms"__, ASME  IDETC-CIE2020 \[[PDF]({{ "/assets/papers/conf4.pdf" | absolute_url }})\]
+-  Sharma S., Purwar A. __"Unified Motion Synthesis of Spatial Seven-bar Platform Mechanisms and Planar Four-bar Mechanisms"__, ASME  IDETC-CIE2020 \[[PDF]({{ "/assets/papers/conf4.pdf" | absolute_url }})\]
 
 - Sharma S., Purwar A. __"Using a Point-Line-Plane Representation for Unified Simulation of Planar and Spherical Mechanisms"__, ASME  IDETC-CIE2019 \[[PDF]({{ "/assets/papers/conf3.pdf" | absolute_url }})\]
 
