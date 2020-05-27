@@ -7,3 +7,9 @@
 
   gtag('config', 'UA-167474316-1');
 </script>
+
+<script>
+  $(window).on('beforeunload',function(){
+  gtag('event', 'page_view');
+  });
+</script>
