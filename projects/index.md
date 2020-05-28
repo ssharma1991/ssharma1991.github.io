@@ -87,8 +87,8 @@ title: Projects
     - Robot Operation System (ROS) is used to robustly combine Perception, Planning, and Control.
 
 <div class="center">
-    <img src="../assets/projects/car1_behavioral_cloning.gif" style="width:56%;">
-    <img src="../assets/projects/car2_highway_driving.gif" style="width:43%;">
+    <img src="../assets/projects/car1_behavioral_cloning.gif" style="width:55%;">
+    <img src="../assets/projects/car2_highway_driving.gif" style="width:42%;">
 </div>
 <div class="center">
     <img src="../assets/projects/car3_basic_lane.gif" style="width:37%;">
