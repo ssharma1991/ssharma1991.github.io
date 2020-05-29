@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Shashank Sharma
+title: Home
+heading: Shashank Sharma
 ---
 
 <div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+heading: Publications
 ---
 ## PhD Dissertation Draft
   - [A Unified Framework for Synthesis of Planar, Spherical and Spatial Mechanisms]({{ "/assets/dissertation/proposal.pdf" | absolute_url }})

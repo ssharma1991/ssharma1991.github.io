@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Course Work
+heading: Course Work
 ---
 
 ## Mechanical Engineering @ Stony Brook

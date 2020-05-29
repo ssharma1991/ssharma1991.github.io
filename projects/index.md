@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+heading: Projects
 ---
 
 # Research Assistant @ CAD Innovation and Engineering Lab
