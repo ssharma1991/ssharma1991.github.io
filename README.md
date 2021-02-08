@@ -1,5 +1,4 @@
 # Using Github Pages on Windows
-
 Install Jekyll
 - follow Jekyll documentation for windows
 
@@ -17,6 +16,12 @@ Test Website Offline
 - bundle exec jekyll serve
 - http://127.0.0.1:4000/
 
-# Hosting My Personal Website using GitHub Pages
 
+# Using this repo
+Since this repo has custom css and layouts, no GEM files are required and you can directly use
+- jekyll build
+- jekyll serve --watch
+
+
+# Hosting My Personal Website using GitHub Pages
 I built this website with help of awesome guide by [Jonathan McGlone](http://jmcglone.com/guides/github-pages/) which uses [Jekyll](https://jekyllrb.com/docs/home/), a simple, blog-aware, static site generator.
