@@ -48,12 +48,12 @@ Concentration: Design and Robotics, Minor: Applied Mathematics
 - ### Fracture test analysis for compact tension specimen \[[PDF]({{ "/assets/ms_projects/2_fracture_test_analysis.pdf" | absolute_url }})\]
     - Finite element analysis of a fracture specimen to predict and validate deformations at the crack tip.
 
+- ### Quality Improvement of Aircraft Wing Assembly \[[PDF]({{ "/assets/ms_projects/6_reduce_wing_assembly_rejection.pdf" | absolute_url }})\]
+    - Identifying and correcting the root cause for high rejection rate of final assembly using Pareto Charts, Cause and Effect Diagrams, Control Charts and Histograms.
+
 - ### Conceptual Design \[[PDF]({{ "/assets/ms_projects/5_1_nutcracker_design.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/ms_projects/5_2_stone_crusher_design.pdf" | absolute_url }})\]
     - Conceptual design of an Ergonomic Nutcracker and Stone Crusher.
     - Formulation of product design specification and criteria and generation of the best possible product concept.
-
-- ### Quality Improvement of Aircraft Wing Assembly \[[PDF]({{ "/assets/ms_projects/6_reduce_wing_assembly_rejection.pdf" | absolute_url }})\]
-    - Identifying and correcting the root cause for high rejection rate of final assembly using Pareto Charts, Cause and Effect Diagrams, Control Charts and Histograms.
 
 ## Coursework
 - Machine Learning in Kinematics and Dynamics of Machines (MEC 634)
@@ -78,11 +78,6 @@ Bachelor of Technology (B.Tech.) in  Mechanical Engineering
     - Reviewed algorithms used for the tessellation of Voronoi Diagrams and Delaunay Triangulation and implemented tessellation on sample set.
     - Coding and simulation were done on MATLAB.
 
-- ### Human Powered Energy Device \[[PDF]({{ "/assets/btech_projects/2_human_powered_energy_device.pdf" | absolute_url }})\]
-    - Designed and Fabricated a Product Concept which harnessed human power.
-    - Two attachments were designed: Portable Fan and Electric Generator.
-    - Modeled and Assembled using PTC Creo.
-
 - ### Mold Design and Manufacturing \[[PDF]({{ "/assets/btech_projects/3_mold_design_and_manufacturing.pdf" | absolute_url }})\]
     - Designed and manufactured molds for irrigation industry products for Injection Molding Process.
     - Flow Analysis results were used to optimize design and a Pricing Strategy was developed for industry partners.
@@ -95,19 +90,24 @@ Bachelor of Technology (B.Tech.) in  Mechanical Engineering
     - Developed a concept of a sensor-based automatic multiple liquid mixing mechanism and simulated it using PLC (Programmable Logic Control).
     - Used Solidworks, PLC ladder logic and Labview.
 
-- ### Computer Aided Manufacturing Projects \[[PDF]({{ "/assets/btech_projects/6_1_2d_planar_stock_cutting.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/btech_projects/6_2_sewing_machine.pdf" | absolute_url }})\]
-    - Solved a simplified 2-D Stock Cutting Problem and implemented it through GUI using MATLAB.
-    - Modeled, Assembled and Simulated the Treadle Sewing Machine using PTC Creo.
-
 - ### Remote Controlled Hovercraft \[[PDF]({{ "/assets/btech_projects/7_rc_hovercraft.pdf" | absolute_url }})\]
     - Designed, analyzed and fabricated a Remote Controlled Hovercraft.
     - Modeled the design, performed the lift and thrust calculations and did CFD analysis.
     - Used ANSYS CFX, Solidworks, PTC Creo, and Labview.
 
+- ### Computer Aided Manufacturing Projects \[[PDF]({{ "/assets/btech_projects/6_1_2d_planar_stock_cutting.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/btech_projects/6_2_sewing_machine.pdf" | absolute_url }})\]
+    - Solved a simplified 2-D Stock Cutting Problem and implemented it through GUI using MATLAB.
+    - Modeled, Assembled and Simulated the Treadle Sewing Machine using PTC Creo.
+
 - ### Computer Aided Design Projects \[[PDF]({{ "/assets/btech_projects/8_1_curves.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/btech_projects/8_2_surfaces.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/btech_projects/8_3_interactive_gui_3d_transformation.pdf" | absolute_url }})\]
     - Developed interactive GUI for 3D Transformation of Geometrical Shapes on MATLAB.
     - Implemented Hermite Curve, Bezier Curve and B-Splines in 3D on MATLAB.
     - Implemented Bilinear Surfaces, Ruled Surfaces, Coons Bicubic Surface Patch, Bezier Surfaces and B-Spline Surfaces in 3D on MATLAB.
+
+- ### Human Powered Energy Device \[[PDF]({{ "/assets/btech_projects/2_human_powered_energy_device.pdf" | absolute_url }})\]
+    - Designed and Fabricated a Product Concept which harnessed human power.
+    - Two attachments were designed: Portable Fan and Electric Generator.
+    - Modeled and Assembled using PTC Creo.
 
 - ### Landing Gear Mechanism
     - Analysed and Fabricated Air plane Landing Gear Mechanism. Analysis was done using MSC Adams.

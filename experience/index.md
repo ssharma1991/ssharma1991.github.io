@@ -6,9 +6,25 @@ heading: Experience
 
 
 # Machine Learning Engineer @ Dematic, Kion Mobile Automation
+- Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Product-Finder/index.html?productTypes[]=2368). 
+- Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to develop automated driving for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) which perform order picking.
 - Developing a robust SLAM algorithm testing pipeline using ROS, Gazebo and Rviz.
 - Creating Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap and Cartographer.
 - Evaluating the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
+- To see AGVs in action at customer's site, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
+
+<div class="center">
+    <video autoplay playsinline muted style="width:49%;">
+        <!--https://www.youtube.com/watch?v=_zAH9TiMPgU-->
+        <source src="../assets/experience/AGVs.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video autoplay playsinline muted style="width:49%;">
+        <source src="../assets/experience/AMRs.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 
 # Autonomous Vehicle Projects @ Udacity Nanodegree Program 
@@ -61,7 +77,7 @@ heading: Experience
     - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. 
     - It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
     - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
-    - Mentored multiple teams, as part of the Vertically Integrated Projects (VIP) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones and Bots with alternative microcontrollers.
+    - Mentored multiple teams, as part of the Vertically Integrated Projects [(VIP)](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=Robotics-driven%20Engineering%20Design%20Exploration) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones and Bots with Arduino alternative microcontrollers.
 
     <div class="center">
     <img src="../assets/experience/snappyxo1.gif" style="width:42%;">
