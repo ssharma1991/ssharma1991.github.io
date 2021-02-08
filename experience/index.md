@@ -14,12 +14,12 @@ heading: Experience
 - To see AGVs in action at customer's site, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
 
 <div class="center">
-    <video autoplay playsinline muted style="width:49%;">
+    <video autoplay loop playsinline muted style="width:49%;">
         <!--https://www.youtube.com/watch?v=_zAH9TiMPgU-->
         <source src="../assets/experience/AGVs.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <video autoplay playsinline muted style="width:49%;">
+    <video autoplay loop playsinline muted style="width:49%;">
         <source src="../assets/experience/AMRs.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
