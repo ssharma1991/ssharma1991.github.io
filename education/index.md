@@ -49,7 +49,7 @@ Concentration: Design and Robotics, Minor: Applied Mathematics
     - Finite element analysis of a fracture specimen to predict and validate deformations at the crack tip.
 
 - ### Quality Improvement of Aircraft Wing Assembly \[[PDF]({{ "/assets/ms_projects/6_reduce_wing_assembly_rejection.pdf" | absolute_url }})\]
-    - Identifying and correcting the root cause for high rejection rate of final assembly using Pareto Charts, Cause and Effect Diagrams, Control Charts and Histograms.
+    - Identifying and correcting the root cause for high rejection rate of final assembly using Pareto Charts, Cause and Effect Diagrams, Control Charts, and Histograms.
 
 - ### Conceptual Design \[[PDF]({{ "/assets/ms_projects/5_1_nutcracker_design.pdf" | absolute_url }})\] \[[PDF]({{ "/assets/ms_projects/5_2_stone_crusher_design.pdf" | absolute_url }})\]
     - Conceptual design of an Ergonomic Nutcracker and Stone Crusher.
@@ -61,7 +61,7 @@ Concentration: Design and Robotics, Minor: Applied Mathematics
 - Kinematic Analysis and Synthesis of Mechanisms (MEC 567)
 - Advanced Dynamics (MEC 568)
 - Vibration & Control (MEC 532)
-- Product Design, Concept Development and Optimization (MEC 525)
+- Product Design, Concept Development, and Optimization (MEC 525)
 - Geometrical Modelling for CAD/CAM (MEC 572)
 - Applied Stress Analysis (MEC 530)
 - Finite Element Methods (MEC 539)
@@ -75,12 +75,12 @@ Concentration: Design and Robotics, Minor: Applied Mathematics
 Bachelor of Technology (B.Tech.) in  Mechanical Engineering
 ## Projects
 - ### Tessellation Algorithms \[[PDF]({{ "/assets/btech_projects/1_tessellation_algorithms.pdf" | absolute_url }})\]
-    - Reviewed algorithms used for the tessellation of Voronoi Diagrams and Delaunay Triangulation and implemented tessellation on sample set.
+    - Reviewed algorithms used for the tessellation of Voronoi Diagrams and Delaunay Triangulation and implemented tessellation on a sample set.
     - Coding and simulation were done on MATLAB.
 
 - ### Mold Design and Manufacturing \[[PDF]({{ "/assets/btech_projects/3_mold_design_and_manufacturing.pdf" | absolute_url }})\]
     - Designed and manufactured molds for irrigation industry products for Injection Molding Process.
-    - Flow Analysis results were used to optimize design and a Pricing Strategy was developed for industry partners.
+    - Flow Analysis results were used to optimize the design and a Pricing Strategy was developed for industry partners.
 
 - ### Deformation Analysis and Validation of Cycle Frame \[[PDF]({{ "/assets/btech_projects/4_bicycle_frame_analysis.pdf" | absolute_url }})\]
     - Modeled frame elements and calculated the deformations for the model on MATLAB.
@@ -105,9 +105,9 @@ Bachelor of Technology (B.Tech.) in  Mechanical Engineering
     - Implemented Bilinear Surfaces, Ruled Surfaces, Coons Bicubic Surface Patch, Bezier Surfaces and B-Spline Surfaces in 3D on MATLAB.
 
 - ### Human Powered Energy Device \[[PDF]({{ "/assets/btech_projects/2_human_powered_energy_device.pdf" | absolute_url }})\]
-    - Designed and Fabricated a Product Concept which harnessed human power.
+    - Designed and Fabricated a Product Concept that harnessed human power.
     - Two attachments were designed: Portable Fan and Electric Generator.
     - Modeled and Assembled using PTC Creo.
 
 - ### Landing Gear Mechanism
-    - Analysed and Fabricated Air plane Landing Gear Mechanism. Analysis was done using MSC Adams.
+    - Analysed and Fabricated Airplane Landing Gear Mechanism. Analysis was done using MSC Adams.

@@ -6,12 +6,12 @@ heading: Experience
 
 
 # Machine Learning Engineer @ Dematic, Kion Mobile Automation
-- Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Product-Finder/index.html?productTypes[]=2368). 
-- Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to develop automated driving for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) which perform order picking.
-- Developing a robust SLAM algorithm testing pipeline using ROS, Gazebo and Rviz.
-- Creating Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap and Cartographer.
+- Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Product-Finder/index.html?productTypes[]=2368). 
+- Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
+- Developing a robust SLAM algorithm testing pipeline using ROS, Gazebo, and Rviz.
+- Creating Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap, and Cartographer.
 - Evaluating the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
-- To see AGVs in action at customer's site, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
+- To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
 
 <div class="center">
     <video autoplay loop playsinline muted style="width:49%;">
@@ -29,7 +29,7 @@ heading: Experience
 
 # Autonomous Vehicle Projects @ Udacity Nanodegree Program 
 - ## Lane Detection [(link1)](https://github.com/ssharma1991/autonomous-car-basic-lane-detection), [(link2)](https://github.com/ssharma1991/autonomous-car-advanced-lane-detection)
-    - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live-feed from dashcam.
+    - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live-feed from a dashcam.
     - Calculated the car's position within lane and lane curvature using perspective transform and polynomial fitting.
 
 - ## Traffic Sign Classification [(link)](https://github.com/ssharma1991/autonomous-car-traffic-sign-classification)
@@ -41,8 +41,7 @@ heading: Experience
 
 - ## Behavioral Cloning [(link)](https://github.com/ssharma1991/autonomous-car-behavioral-cloning)
     - Designed an end-to-end convolution neural network using Keras that predicts steering angles from dash-cam images.
-    - Successfully cloned human driving behavior to autonomously steer a car around a virtual test track after neural network tuning and data
-    augmentation.
+    - Successfully cloned human driving behavior to autonomously steer a car around a virtual test track after neural network tuning and data augmentation.
 
 - ## Sensor Fusion [(link)](https://github.com/ssharma1991/autonomous-car-sensor-fusion)
     - Implemented car location estimation algorithm using extended Kalman Filter based on LIDAR and RADAR sensors data.
@@ -55,7 +54,7 @@ heading: Experience
     - Jerk minimized trajectories are considered to enhance occupant safety.
 
 - ## Control [(link)](https://github.com/ssharma1991/autonomous-car-PID-control)
-    - A PID controller is implemented to maneuver a vehicle around a virtual track using steering, throttle and brake. 
+    - A PID controller is implemented to maneuver a vehicle around a virtual track using steering, throttle, and brake. 
 
 - ## System Integration
     - Robot Operation System (ROS) is used to robustly combine Perception, Planning, and Control.
@@ -102,8 +101,8 @@ heading: Experience
 - ## Research and Algorithms
     - Path synthesis of mechanisms based on Fourier descriptor fitting using Nelder-Mead and Simulated Annealing optimization.
     - Mixed motion and path mechanism synthesis using optimal non-uniform DFT and Singular Value Decomposition.
-    - Real-time simulation of planar, spherical and spatial mechanisms with prismatic and revolute joints using Newton-Raphson optimization.
-    - Developed unified planar, spherical and spatial mechanisms synthesis techniques using Homotopy methods for simultaneous type and dimensional synthesis.
+    - Real-time simulation of planar, spherical, and spatial mechanisms with prismatic and revolute joints using Newton-Raphson optimization.
+    - Developed unified planar, spherical, and spatial mechanisms synthesis techniques using Homotopy methods for simultaneous type and dimensional synthesis.
     - Developing machine learning based techniques for path synthesis using spatial platform linkages.
     
     <div class="center">
@@ -123,8 +122,8 @@ heading: Experience
 
 
 # Product Design @ Vivonics, Inc.
-- Coordinated with design team on developing PMT Monitor, a portable medical headset which detects head trauma.
-- Generated concepts for a mechanism which adjusts the interpupillary distance between the lenses focusing on manufacturability and robustness.
+- Coordinated with the design team on developing PMT Monitor, a portable medical headset that detects head trauma.
+- Generated concepts for a mechanism that adjusts the interpupillary distance between the lenses focusing on manufacturability and robustness.
 
 <div class="center">
     <img src="../assets/experience/vivonics_PMT1.jpg" style="width:70%;">
@@ -134,7 +133,7 @@ heading: Experience
 
 
 # Design and Manufacturing @ Leviathan Energy
-- Designed and manufactured Hydro-kinetic turbine with improved airfoil design which produce 50% more power in collaboration with Leviathan Energy.
+- Designed and manufactured a Hydro-kinetic turbine with an improved airfoil design which produces 50% more power in collaboration with Leviathan Energy.
 - Created engineering models using Solidworks and Autodesk Inventor and fabricated parts by FDM based 3D printing.
 
 <div class="center">
