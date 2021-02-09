@@ -160,9 +160,10 @@ heading: Experience
 - Involved with product development of Hydraulic Tongs used in the oil and gas industry.
 - Carried out Kinematic and Dynamic analysis to find the most probable failure regions.
 <div class="center">
-    <img src="../assets/experience/hydraulic_tongs.gif" style="width:49%;">
-    <video autoplay loop playsinline muted style="width:49%;">
+    <img src="../assets/experience/hydraulic_tongs.gif" style="width:43%;">
+    <video autoplay loop playsinline muted style="width:56%;">
         <source src="../assets/experience/hydraulic_tongs.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
+<br />
