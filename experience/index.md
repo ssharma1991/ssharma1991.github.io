@@ -155,3 +155,14 @@ heading: Experience
     <img src="../assets/experience/JRF3.jpg" style="width:99%;">
 </div>
 <br />
+
+# Design @ Sara Sae
+- Involved with product development of Hydraulic Tongs used in the oil and gas industry.
+- Carried out Kinematic and Dynamic analysis to find the most probable failure regions.
+<div class="center">
+    <img src="../assets/experience/hydraulic_tongs.gif" style="width:49%;">
+    <video autoplay loop playsinline muted style="width:49%;">
+        <source src="../assets/experience/hydraulic_tongs.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
