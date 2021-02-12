@@ -1,44 +1,46 @@
 <!DOCTYPE html>
-  <html>
-    <head>
-      {% include seo.html %}
-      <!-- link to main stylesheet -->
-      <link rel="stylesheet" type="text/css" href="/css/main.css">
-      <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | absolute_url }}">
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<html>
 
-      {% if jekyll.environment == 'production' %}
-      {% include analytics.html %}
-      {% endif %}
-    </head>
-    <body>
-      <header style="display: grid; border-bottom: 1px solid #d5d5d5;font-size: 1.2em;">
-      <nav>
-          <ul style="float:right; font-size: 1.1em;">
-              <li><a href="/">Home</a></li>
-              <li><a href="/experience/">Experience</a></li>
-              <li><a href="/education/">Education</a></li>
-              <!--
-              <li><a href="/blog">Blog</a></li>
-              -->
-          </ul>
-      </nav>
-      <h1 class="page-title">{{ page.heading }}</h1>
-    </header>
-      <div class="container">
+<head>
+  {% include seo.html %}
+  <!-- link to main stylesheet -->
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | absolute_url }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-      {{ content }}
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+</head>
 
-      </div><!-- /.container -->
-      <footer style="border-top: 1px solid #d5d5d5; font-size: 1.1em;">
-              <h2 style="margin: 15px 0px 0px 0px">Let's Get Connected</h2>
-          <ul>
-              <li><a href="mailto:shashank.sharma.1991@outlook.com">Email</a></li>
-              <li><a href="https://github.com/ssharma1991">Github</a></li>
-              <li><a href="https://www.linkedin.com/in/ssharma1991/">LinkedIn</a></li>
-              <li><a href="/assets/resume.pdf">Resume</a></li>
-          </ul>
-      </footer>
-    </body>
-  </html>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/experience/">Experience</a></li>
+        <li><a href="/education/">Education</a></li>
+        <!--<li><a href="/blog">Blog</a></li>-->
+      </ul>
+    </nav>
+    <h1 class="page-title">{{ page.heading }}</h1>
+  </header>
+
+  <div class="container">
+    {{ content }}
+  </div><!-- /.container -->
+
+  <footer>
+    <h2>Let's Get Connected</h2>
+    <ul>
+      <li><a href="mailto:shashank.sharma.1991@outlook.com">Email</a></li>
+      <li><a href="https://github.com/ssharma1991">Github</a></li>
+      <li><a href="https://www.linkedin.com/in/ssharma1991/">LinkedIn</a></li>
+      <li><a href="/assets/resume.pdf">Resume</a></li>
+    </ul>
+  </footer>
+</body>
+
+</html>
