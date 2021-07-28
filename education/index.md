@@ -104,6 +104,13 @@ Bachelor of Technology (B.Tech.) in  Mechanical Engineering
     - Implemented Hermite Curve, Bezier Curve and B-Splines in 3D on MATLAB.
     - Implemented Bilinear Surfaces, Ruled Surfaces, Coons Bicubic Surface Patch, Bezier Surfaces and B-Spline Surfaces in 3D on MATLAB.
 
+- ### Computer Aided Optimization Projects \[[PDF]({{ "/assets/btech_projects/9_altair_optimization_competition.pdf" | absolute_url }})\]
+    - Topography optimization of a pressure tank to minimize wall displacement.
+    - Topology optimization of an automotive control arm to minimize deformation and volume of the component.
+    - Topology optimization of a clutch pedal to minimize the weight of the part.
+    - Free size optimization of an aircraft wing rib to minimize weight and maximize stiffness.
+    - Used Altair Hyperworks, HyperMesh, and OptiStruct.
+
 - ### Human Powered Energy Device \[[PDF]({{ "/assets/btech_projects/2_human_powered_energy_device.pdf" | absolute_url }})\]
     - Designed and Fabricated a Product Concept that harnessed human power.
     - Two attachments were designed: Portable Fan and Electric Generator.

@@ -8,9 +8,13 @@ heading: Experience
 # Machine Learning Engineer @ Dematic, Kion Mobile Automation
 - Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Product-Finder/index.html?productTypes[]=2368). 
 - Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
-- Developing a robust SLAM algorithm testing pipeline using ROS, Gazebo, and Rviz.
-- Creating Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap, and Cartographer.
-- Evaluating the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
+- Improved performance of our SLAM algorithm by up to 30% and Association algorithm by up to 50%.
+- Led the standardization of the accuracy-repeatability testing process done on physical test tracks across global teams.
+- Developed a Gazebo-based virtual testing pipeline to improve feature extraction algorithm using hyperparameter tuning.
+- Developed a ROS and Rviz based playback tool to visualize onboard recorded data and analyze SLAM performance.
+- Evaluated using Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap, and Cartographer.
+- Evaluated the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
+- Certified [SAFe (Scaled Agile Framework) Practitioner](https://www.youracclaim.com/go/eCNozIcD) and trained to use Scrum, Kanban, and XP in a SAFe environment.
 - To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
 
 <div class="center">
@@ -29,7 +33,7 @@ heading: Experience
 
 # Autonomous Vehicle Projects @ Udacity Nanodegree Program 
 - ## Lane Detection [(link1)](https://github.com/ssharma1991/autonomous-car-basic-lane-detection), [(link2)](https://github.com/ssharma1991/autonomous-car-advanced-lane-detection)
-    - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live-feed from a dashcam.
+    - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live feed from a dashcam.
     - Calculated the car's position within lane and lane curvature using perspective transform and polynomial fitting.
 
 - ## Traffic Sign Classification [(link)](https://github.com/ssharma1991/autonomous-car-traffic-sign-classification)
@@ -73,10 +77,13 @@ heading: Experience
 
 # Research Assistant @ CAD Innovation and Engineering Lab
 - ## Robotics
-    - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. 
-    - It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
+    - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
     - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
     - Mentored multiple teams, as part of the Vertically Integrated Projects [(VIP)](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=Robotics-driven%20Engineering%20Design%20Exploration) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones and Bots with Arduino alternative microcontrollers.
+    - Assisted in developing and improving [Rehabilitation Robots](https://www.stonybrook.edu/commcms/mobilityassist/) for sit-to-stand assist and gait correction. 
+    - Collaborated with [ROAR lab](https://roar.me.columbia.edu/home) at Columbia University on the design of spatial robots for neck rehabilitation. 
+    <!-- -include images/videos of multi-DoF spatial platform or robotic arm simulation. -->
+    <!-- -Used Xbox Kinect to detect 2D hand pose and synthesized planar mechanisms with similar motion. -->
 
     <div class="center">
     <img src="../assets/experience/snappyxo1.gif" style="width:42%;">
@@ -102,7 +109,7 @@ heading: Experience
     - Path synthesis of mechanisms based on Fourier descriptor fitting using Nelder-Mead and Simulated Annealing optimization.
     - Mixed motion and path mechanism synthesis using optimal non-uniform DFT and Singular Value Decomposition.
     - Real-time simulation of planar, spherical, and spatial mechanisms with prismatic and revolute joints using Newton-Raphson optimization.
-    - Developed unified planar, spherical, and spatial mechanisms synthesis techniques using Homotopy methods for simultaneous type and dimensional synthesis.
+    - Developed unified planar, spherical, and spatial mechanisms synthesis techniques using Homotopy continuation method for simultaneous type and dimensional synthesis.
     - Developing machine learning based techniques for path synthesis using spatial platform linkages.
     
     <div class="center">
