@@ -10,9 +10,10 @@ heading: Experience
 - Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
 - Improved performance of our SLAM algorithm by up to 30% and Association algorithm by up to 50%.
 - Led the standardization of the accuracy-repeatability testing process done on physical test tracks across global teams.
+- Created calibration procedures for Lidar position/orientation offset, steering encoder offset and traction encoder offset.
 - Developed a Gazebo-based virtual testing pipeline to improve feature extraction algorithm using hyperparameter tuning.
 - Developed a ROS and Rviz based playback tool to visualize onboard recorded data and analyze SLAM performance.
-- Evaluated using Occupancy Grids for 2D and 3D Lidar sensors using Gmapping, Octomap, and Cartographer.
+- Evaluated the creation of Occupancy Grids using Gmapping, Octomap, and Cartographer for 2D and 3D Lidar sensors.
 - Evaluated the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
 - Certified [SAFe (Scaled Agile Framework) Practitioner](https://www.youracclaim.com/go/eCNozIcD) and trained to use Scrum, Kanban, and XP in a SAFe environment.
 - To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
