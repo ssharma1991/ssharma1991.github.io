@@ -6,15 +6,15 @@ heading: Skills
 
 
 # Robotics
-- **Platforms**- Nvidia Jetson (Nano and Xavier NX), Raspberry pi, Arduino
-- **Sensors**- 2D and 3D Lidar (Sick, Ouster and Velodyne), RGBD camera (Intel Realsense D455), steering and traction encoder, IMU
+- **Platforms**- Nvidia Jetson (Nano and Xavier NX), Raspberry Pi, Arduino
+- **Sensors**- 2D and 3D Lidar (Sick, Ouster, and Velodyne), RGBD camera (Intel Realsense D455), steering and traction encoder, IMU
 - **Frameworks and Libraries**- ROS, Gazebo, Rviz, Anaconda, Jupyter, OpenCV, Scikit, Pandas
 
 
 # Algorithms
 - **Linear Algebra**- Principal component analysis, Singular Value Decomposition
-- **Local (Convex) Optimization**- Nealder Mead (0th order), Newton Rhapson (gradient based)
-- **Global (Non-convex) Optimization**- Simulated aneeling, genetic algorithms
+- **Local (Convex) Optimization**- Nelder Mead (derivative-free), Newton Raphson (derivative-based)
+- **Global (Non-convex) Optimization**- Simulated annealing, genetic algorithms
 - **Signal Processing**- Fourier analysis, Wavelet analysis
 - **SLAM (Simultaneous Localization and Mapping)**- Kalman filter, Particle filter
 - **Motion Planning**- A-star search, Finite state machine, Minimum jerk trajectories, Spatial Quaternion state representation
@@ -34,7 +34,7 @@ heading: Skills
 # Mechanical
 - **Processes**- 3D Printing, Laser Cutting, Injection Molding, Abrasive water jet machining, Incremental Sheet Forming, CNC machining.
 - **Design software**- Solidworks, Autodesk Inventor, Autodesk Fusion 360, PTC Creo, CATIA, Autodesk AutoCAD, ZWCAD. 
-- **Analysis software**- Ansys (CFD and Mechanical), Autodesk Moldfow, MSC-Adams, Altair HyperMesh, Altair OptiStruct.
+- **Analysis software**- Ansys (CFD and Mechanical), Autodesk Moldflow, MSC-Adams, Altair HyperMesh, Altair OptiStruct.
 - **Manufacturing software**- FeatureCAM, CNC G-M Code, Ultimaker Cura, Materialize Magics, Materialize Mimics.
 
 
