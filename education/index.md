@@ -14,6 +14,8 @@ Concentration: Design and Robotics, Minor: Applied Mathematics
     - Analytical and Machine Learning Based Frameworks for Synthesis of Planar, Spherical and Spatial Mechanisms \[[PDF]({{ "/assets/publications/phd_dissertation.pdf" | absolute_url }})\] \[[PPT]({{ "/assets/publications/phd_defense.pptx" | absolute_url }})\]
 
 - ### Journal Articles
+    - Sharma S., Purwar A. __"A Machine Learning Approach to Solve the Alt–Burmester Problem for Synthesis of Defect-Free Spatial Mechanisms"__, ASME Journal of Computing and Information Science in Engineering 2022 \[[PDF]({{ "/assets/publications/jour4.pdf" | absolute_url }})\]
+
     - Sharma S., Purwar A. __"Using a Point-Line-Plane Representation for Unified Simulation of Planar and Spherical Mechanisms"__, ASME Journal of Computing and Information Science in Engineering 2020 \[[PDF]({{ "/assets/publications/jour3.pdf" | absolute_url }})\]
 
     - Sharma S., Purwar A, and Q. J. Ge. __"A Motion Synthesis Approach to Solving Alt-Burmester Problem by Exploiting Fourier Descriptor Relationship Between Path and Orientation Data "__, ASME Journal of Mechanisms and Robotics 2019 \[[PDF]({{ "/assets/publications/jour2.pdf" | absolute_url }})\]
