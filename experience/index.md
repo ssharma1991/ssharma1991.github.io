@@ -5,18 +5,19 @@ heading: Experience
 ---
 
 
-# Machine Learning Engineer @ Dematic, Kion Mobile Automation
-- Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Product-Finder/index.html?productTypes[]=2368). 
+# Machine Learning Engineer (Perception, Localization and Mapping) @ [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [Kion Mobile Automation](https://www.kiongroup.com/en/Landing-Pages/KION-Mobile-Automation/)
+- Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Products/Automated-Trucks/). 
 - Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
-- Improved performance of our SLAM algorithm by up to 30% and Association algorithm by up to 50%.
-- Led the standardization of the accuracy-repeatability testing process done on physical test tracks across global teams.
-- Created calibration procedures for Lidar position/orientation offset, steering encoder offset and traction encoder offset.
+- Reduced CPU utilization of the feature association algorithm by 50% and localization pipeline by 30%.
+- Improved accuracy and robustness of the reflector extraction algorithm leading to sub-centimeter accuracy.
 - Developed a Gazebo-based virtual testing pipeline to improve feature extraction algorithm using hyperparameter tuning.
-- Developed a ROS and Rviz based playback tool to visualize onboard recorded data and analyze SLAM performance.
-- Evaluated the creation of Occupancy Grids using Gmapping, Octomap, and Cartographer for 2D and 3D Lidar sensors.
+- Led the standardization of the accuracy-repeatability testing done in warehouses, using an external laser tracking system by Faro.
+- Created calibration procedures for lidar position/orientation offset, steering encoder offset and traction encoder offset.
+- Automated offline performance analysis of recorded SLAM logs.
+- Developed a ROS and Rviz based playback tool to visualize onboard recorded data.
 - Evaluated the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
 - Certified [SAFe (Scaled Agile Framework) Practitioner](https://www.youracclaim.com/go/eCNozIcD) and trained to use Scrum, Kanban, and XP in a SAFe environment.
-- To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk&feature=emb_title), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk&t=85s).
+- To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk).
 
 <div class="center">
     <video autoplay loop playsinline muted style="width:49%;">
@@ -29,36 +30,63 @@ heading: Experience
         Your browser does not support the video tag.
     </video>
 </div>
+<br />
 
 
+# [Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209) @ Udacity 
+- ## Localization, Mapping and Path Planning for Autonomous Vehicles in Factories [(repo)](https://github.com/ssharma1991/factorybot)
+    - Simulated Automated Guided vehicles (AGVs) and Autonomous Mobile Robots (AMRs) in a warehouse environment.
+    - Mapped a virtual environment, by manually moving an AGV and creating an occupancy grid map. The AGV only had a 2D lidar sensor on it. Localized an AMR using the same map while controlling it manually or autonomously using path planning. Simulated a complete pick and drop operation. ROS packages like gmapping, AMCL, and move_base were used.
+    - Used SLAM to manually move an AMR through a virtual environment and create a loop-closed 3D graph map using RTAB-Map. The AMR used a 3D camera and a 2D lidar sensor to create the map for localization.
+    - Programmed an AMR to autonomously follow a moving reflective ball target using a 2D camera.
 
-# Autonomous Vehicle Projects @ Udacity Nanodegree Program 
-- ## Lane Detection [(link1)](https://github.com/ssharma1991/autonomous-car-basic-lane-detection), [(link2)](https://github.com/ssharma1991/autonomous-car-advanced-lane-detection)
+<div class="center">
+    <img src="../assets/experience/robo1_mapping_gmapping.gif" style="width:99%;">
+</div>
+<div class="center">
+    <img src="../assets/experience/robo2_mapping_RTABMap_viewer.png" style="width:99%;">
+</div>
+<div class="center">
+    <img src="../assets/experience/robo3_pick_and_place.gif" style="width:99%;">
+</div>
+<br />
+
+- ## Path Planning for KUKA robotic arm [(repo)](https://github.com/ssharma1991/kuka-robotics-challenge)
+    - Used A-star path planning to move a payload through a 2D maze using a KUKA industrial robotic arm as part of [KUKA Robotics Challenge](https://www.udacity.com/kuka-robotics-challenge).
+
+<div class="center">
+    <img src="../assets/experience/robo4_maze_solving.gif" style="width:99%;">
+</div>
+<br />
+
+
+# [Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013) @ Udacity
+- ## Lane Detection [(repo1)](https://github.com/ssharma1991/autonomous-car-basic-lane-detection), [(repo2)](https://github.com/ssharma1991/autonomous-car-advanced-lane-detection)
     - Created a robust image processing pipeline to detect a highway lane in an image, pre-recorded video, or live feed from a dashcam.
     - Calculated the car's position within lane and lane curvature using perspective transform and polynomial fitting.
 
-- ## Traffic Sign Classification [(link)](https://github.com/ssharma1991/autonomous-car-traffic-sign-classification)
+- ## Traffic Sign Classification [(repo)](https://github.com/ssharma1991/autonomous-car-traffic-sign-classification)
     - Developed a LeNet inspired convolution neural network using TensorFlow to classify the GTSRB traffic sign dataset.
     - Achieved 94.8% accuracy on test dataset by data augmentation and image enhancement using OpenCV.
 
 - ## Traffic Light Awareness
     - Used SSD Mobilenet for real-time traffic light detection and classification.
 
-- ## Behavioral Cloning [(link)](https://github.com/ssharma1991/autonomous-car-behavioral-cloning)
+- ## Behavioral Cloning [(repo)](https://github.com/ssharma1991/autonomous-car-behavioral-cloning)
     - Designed an end-to-end convolution neural network using Keras that predicts steering angles from dash-cam images.
     - Successfully cloned human driving behavior to autonomously steer a car around a virtual test track after neural network tuning and data augmentation.
 
-- ## Sensor Fusion [(link)](https://github.com/ssharma1991/autonomous-car-sensor-fusion)
+- ## Sensor Fusion [(repo)](https://github.com/ssharma1991/autonomous-car-sensor-fusion)
     - Implemented car location estimation algorithm using extended Kalman Filter based on LIDAR and RADAR sensors data.
 
-- ## Localization [(link)](https://github.com/ssharma1991/autonomous-car-localization)
+- ## Localization [(repo)](https://github.com/ssharma1991/autonomous-car-localization)
     - A 2D particle filter for sparse localization is designed and uses GPS and sensor data with a landmark map.
 
-- ## Trajectory Planning [(link)](https://github.com/ssharma1991/autonomous-car-highway-driving)
+- ## Trajectory Planning [(repo)](https://github.com/ssharma1991/autonomous-car-highway-driving)
     - A Finite State Machine based planner is created to achieve autonomous highway driving with other cars.
     - Jerk minimized trajectories are considered to enhance occupant safety.
 
-- ## Control [(link)](https://github.com/ssharma1991/autonomous-car-PID-control)
+- ## Control [(repo)](https://github.com/ssharma1991/autonomous-car-PID-control)
     - A PID controller is implemented to maneuver a vehicle around a virtual track using steering, throttle, and brake. 
 
 - ## System Integration
@@ -80,10 +108,9 @@ heading: Experience
 - ## Robotics
     - Developed [SnappyXO](http://snappyxo.com/), a laser-cut design-driven robotics platform that enables designing mechanisms, structures, and robots. It has successfully raised $16K+ on [Indiegogo](https://www.indiegogo.com/projects/snappyxo-a-design-driven-robotics-education-kit) for a crowdfunding campaign.
     - Organized workshop "Designing, Prototyping and Programming Robot Motions using MotionGen and SnappyXO" at [IDETC 2018](https://archive.asme.org/events/idetccie2018/program/workshops-tutorials) and "Kinematic Summer School" at [IDETC 2019](https://sites.google.com/stonybrook.edu/2019kiss).
-    - Mentored multiple teams, as part of the Vertically Integrated Projects [(VIP)](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=Robotics-driven%20Engineering%20Design%20Exploration) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones and Bots with Arduino alternative microcontrollers.
+    - Mentored multiple teams, as part of the Vertically Integrated Projects [(VIP)](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=Robotics-driven%20Engineering%20Design%20Exploration) program, for Robotics-driven Engineering Design Exploration. Some of the projects were Walking Robots, Self-driving Car, Sumo/Battle Bot, Biomimetic Robots, Drones, and Bots with Arduino alternative microcontrollers.
     - Assisted in developing and improving [Rehabilitation Robots](https://www.stonybrook.edu/commcms/mobilityassist/) for sit-to-stand assist and gait correction. 
     - Collaborated with [ROAR lab](https://roar.me.columbia.edu/home) at Columbia University on the design of spatial robots for neck rehabilitation. 
-    <!-- -include images/videos of multi-DoF spatial platform or robotic arm simulation. -->
     <!-- -Used Xbox Kinect to detect 2D hand pose and synthesized planar mechanisms with similar motion. -->
 
     <div class="center">
@@ -93,7 +120,7 @@ heading: Experience
     <br />
 
 
-- ## Mechanism Design Software [(link)](https://github.com/ssharma1991/MotionGen-Server)
+- ## Mechanism Design Software [(repo)](https://github.com/ssharma1991/MotionGen-Server)
     - Developing a Computational Framework for Data-Driven Mechanism Design Innovation supported by $450K [NSF grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1563413).
     - Created [MotionGen](https://www.stonybrook.edu/commcms/motiongen/) a web-based mechanism design framework. Try it out [here](http://cadcam.eng.sunysb.edu/).
     - It uses MEAN (MongoDB, Express.js, Angular.js, Node.js) stack to create a RESTful web service based on MVC architecture. 
@@ -104,6 +131,7 @@ heading: Experience
     <img src="../assets/experience/MotionGen2.gif" style="width:32%;">
     <img src="../assets/experience/MotionGen3.gif" style="width:29%;">
     </div>
+    <br />
     
 
 - ## Research and Algorithms
@@ -127,6 +155,7 @@ heading: Experience
     <img src="../assets/experience/Sph2.gif" style="width:31%;">
     <img src="../assets/experience/Sph3.gif" style="width:31%;">
     </div>
+    <br />
 
 
 # Product Design @ Vivonics, Inc.
@@ -141,7 +170,7 @@ heading: Experience
 
 
 # Design and Manufacturing @ Leviathan Energy
-- Designed and manufactured a Hydro-kinetic turbine with an improved airfoil design which produces 50% more power in collaboration with Leviathan Energy.
+- Designed and manufactured a Hydro-kinetic turbine with an improved airfoil design that produces 50% more power in collaboration with Leviathan Energy.
 - Created engineering models using Solidworks and Autodesk Inventor and fabricated parts by FDM based 3D printing.
 
 <div class="center">
