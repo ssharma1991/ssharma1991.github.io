@@ -5,16 +5,14 @@ heading: Experience
 ---
 
 
-# Machine Learning Engineer (Perception, Localization and Mapping) @ [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [Kion Mobile Automation](https://www.kiongroup.com/en/Landing-Pages/KION-Mobile-Automation/)
+# Machine Learning Engineer (Perception, Localization, and Mapping) @ [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [Kion Mobile Automation](https://www.kiongroup.com/en/Landing-Pages/KION-Mobile-Automation/)
 - Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Products/Automated-Trucks/). 
 - Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
-- Reduced CPU utilization of the feature association algorithm by 50% and localization pipeline by 30%.
 - Improved accuracy and robustness of the reflector extraction algorithm leading to sub-centimeter accuracy.
-- Developed a Gazebo-based virtual testing pipeline to improve feature extraction algorithm using hyperparameter tuning.
-- Led the standardization of the accuracy-repeatability testing done in warehouses, using an external laser tracking system by Faro.
-- Created calibration procedures for lidar position/orientation offset, steering encoder offset and traction encoder offset.
-- Automated offline performance analysis of recorded SLAM logs.
-- Developed a ROS and Rviz based playback tool to visualize onboard recorded data.
+- Developed a Gazebo-based virtual testing pipeline to improve line extraction algorithm using hyperparameter tuning.
+- Improved speed of feature-based association algorithm by 50%, leading to a 30% faster localization pipeline. Analyzed real-time CPU utilization of SLAM processes and threads using Valgrind, LTTng, and perf.
+- Standardized the pallet pick/drop testing at physical warehouses. The accuracy-repeatability analysis was done using an external laser tracking system by Faro. Also, a procedure to calibrate lidar, steering encoder, and traction encoder was created.
+- Developed a python-based tool to visualize recorded SLAM logs, and automated their offline performance analysis.
 - Evaluated the use of Visual Inertial Odometry and GraphSLAM to improve AGV navigation in warehouse environments.
 - Certified [SAFe (Scaled Agile Framework) Practitioner](https://www.youracclaim.com/go/eCNozIcD) and trained to use Scrum, Kanban, and XP in a SAFe environment.
 - To see the AGVs in action at customer sites, check out the videos [here](https://www.youtube.com/watch?v=qnB6AhUDGwE), [here](https://www.youtube.com/watch?v=kYLGAisXTNk), [here](https://www.youtube.com/watch?v=MRJD1L6-Q1M) and [here](https://www.youtube.com/watch?v=KZww5lcbfNk).
@@ -34,7 +32,7 @@ heading: Experience
 
 
 # [Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209) @ Udacity 
-- ## Localization, Mapping and Path Planning for Autonomous Vehicles in Factories [(repo)](https://github.com/ssharma1991/factorybot)
+- ## Localization, Mapping, and Path Planning for Autonomous Vehicles in Factories [(repo)](https://github.com/ssharma1991/factorybot)
     - Simulated Automated Guided vehicles (AGVs) and Autonomous Mobile Robots (AMRs) in a warehouse environment.
     - Mapped a virtual environment, by manually moving an AGV and creating an occupancy grid map. The AGV only had a 2D lidar sensor on it. Localized an AMR using the same map while controlling it manually or autonomously using path planning. Simulated a complete pick and drop operation. ROS packages like gmapping, AMCL, and move_base were used.
     - Used SLAM to manually move an AMR through a virtual environment and create a loop-closed 3D graph map using RTAB-Map. The AMR used a 3D camera and a 2D lidar sensor to create the map for localization.
