@@ -75,7 +75,7 @@ heading: Experience
     - Successfully cloned human driving behavior to autonomously steer a car around a virtual test track after neural network tuning and data augmentation.
 
 - ## Sensor Fusion [(repo)](https://github.com/ssharma1991/autonomous-car-sensor-fusion)
-    - Implemented car location estimation algorithm using extended Kalman Filter based on LIDAR and RADAR sensors data.
+    - Implemented car location estimation algorithm using extended Kalman Filter based on LIDAR and RADAR sensor data.
 
 - ## Localization [(repo)](https://github.com/ssharma1991/autonomous-car-localization)
     - A 2D particle filter for sparse localization is designed and uses GPS and sensor data with a landmark map.
@@ -120,7 +120,7 @@ heading: Experience
 
 - ## Mechanism Design Software [(repo)](https://github.com/ssharma1991/MotionGen-Server)
     - Developing a Computational Framework for Data-Driven Mechanism Design Innovation supported by $450K [NSF grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1563413).
-    - Created [MotionGen](https://www.stonybrook.edu/commcms/motiongen/) a web-based mechanism design framework. Try it out [here](http://cadcam.eng.sunysb.edu/).
+    - Created [MotionGen](https://www.stonybrook.edu/commcms/motiongen/), a web-based mechanism design framework. Try it out [here](http://cadcam.eng.sunysb.edu/).
     - It uses MEAN (MongoDB, Express.js, Angular.js, Node.js) stack to create a RESTful web service based on MVC architecture. 
     - Both [iOS](https://apps.apple.com/us/app/motiongen/id1065657088) and [Android](https://play.google.com/store/apps/details?id=com.stonybrookuniversity.motiongen&hl=en&gl=US) apps have been created using Apache Cordova framework.
 
