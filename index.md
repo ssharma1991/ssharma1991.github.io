@@ -9,7 +9,7 @@ heading: Shashank Sharma
 </div>
 
 
-### “Engineering is the closest thing to magic that exists in the real world” — Elon Musk
+### “Engineering is the closest thing to magic that exists in the real world”
 
 I'm a Robotics Engineer who loves working on the latest trends in automation. I'm excited about using my interdisciplinary knowledge to solve challenging problems in transportation, manufacturing, and healthcare industry.
 
