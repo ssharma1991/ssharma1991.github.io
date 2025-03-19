@@ -5,6 +5,18 @@ heading: Experience
 ---
 
 
+# Senior Software Engineer (Maps and Navigation) @ [Lucid Motors](https://lucidmotors.com/)
+- Working on Lucid’s [DreamDrive](https://lucidmotors.com/media-room/lucid-motors-announces-lucid-dreamdrive) advanced driver-assistance system(ADAS) for Lucid Air Sedan and Gravity SUV.
+- Collaborated with system, platform, perception, motion planning \& control, cloud, and field testing teams to successfully [deliver](https://lucidmotors.com/media-room/lucid-delivers-ux-2-4-0-software-update) key ADAS features like Lane Change Assist (LCA), Adaptive Cruise Control (ACC), and Highway Assist (HWA).
+- Developed HDmap software for [Nvidia Xavier](https://lucidmotors.com/media-room/lucid-announces-dreamdrive-nvidia) with QNX, which used input from the GNSS sensor and TomTom API.
+- Improved software stability by focusing on memory, CPU, and bandwidth profiling. I also enhanced offline performance.
+
+<div class="center">
+    <img src="../assets/lucid/Lucid_highway_assist.gif" style="width:47%;">
+    <img src="../assets/lucid/Lucid_lane_change_assist.gif" style="width:52%;">
+</div>
+<br />
+
 # Machine Learning Engineer (Perception, Localization, and Mapping) @ [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [Kion Mobile Automation](https://www.kiongroup.com/en/Landing-Pages/KION-Mobile-Automation/)
 - Developing intelligent, automated solutions for manufacturing, warehouse, and distribution environments, sold by [KION Group](https://www.kiongroup.com/en/About-us/KION-at-a-glance/) and its operating units [Dematic](https://www.dematic.com/en-us/products/products-overview/agv-systems/), [STILL](https://www.still.de/en-DE/intralogistics-systems/automation-systems.html) and [Linde](https://www.linde-mh.com/en/Products/Automated-Trucks/). 
 - Directly involved with developing on-vehicle Simultaneous Localization and Mapping (SLAM) software for [AGVs](https://www.kiongroup.com/en/News-Stories/Stories/Automation/Story-Detail_19968.html) and [AMRs](https://www.kiongroup.com/en/News-Stories/Stories/Growing-in-China/Story-Detail_34432.html). Also contributing to automated driving algorithms for [collaborative AGVs](https://www.kiongroup.com/en/News-Stories/Press-Releases/Press-Releases-Detail.html?id=33024&type=internal&title=Excellent%20picking%20performance:%20STILL%20OPX%20iGo%20neo%20triumphs%20at%20Telematics%20Award) performing order picking.
