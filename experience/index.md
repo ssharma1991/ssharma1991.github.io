@@ -6,10 +6,11 @@ heading: Experience
 
 
 # Senior Software Engineer (Maps and Navigation) @ [Lucid Motors](https://lucidmotors.com/)
-- Working on Lucid’s [DreamDrive](https://lucidmotors.com/media-room/lucid-motors-announces-lucid-dreamdrive) advanced driver-assistance system(ADAS) for Lucid Air Sedan and Gravity SUV.
-- Collaborated with system, platform, perception, motion planning \& control, cloud, and field testing teams to successfully [deliver](https://lucidmotors.com/media-room/lucid-delivers-ux-2-4-0-software-update) key ADAS features like Lane Change Assist (LCA), Adaptive Cruise Control (ACC), and Highway Assist (HWA).
-- Developed HDmap software for [Nvidia Xavier](https://lucidmotors.com/media-room/lucid-announces-dreamdrive-nvidia) with QNX, which used input from the GNSS sensor and TomTom API.
-- Improved software stability by focusing on memory, CPU, and bandwidth profiling. I also enhanced offline performance.
+- Contributed to Lucid’s [DreamDrive](https://lucidmotors.com/media-room/lucid-motors-announces-lucid-dreamdrive) advanced driver-assistance system(ADAS) for Lucid Air Sedan and Gravity SUV.
+- Led development of HD map software on [Nvidia Xavier](https://lucidmotors.com/media-room/lucid-announces-dreamdrive-nvidia) and Orin with QNX, integrating GNSS sensor data with TomTom APIs.
+- [Delivered](https://lucidmotors.com/media-room/lucid-delivers-ux-2-4-0-software-update) ADAS features - Lane Change Assist (LCA), Adaptive Curve Speed Control (ACS), and Hands‑Free Highway Assist (HF-HWA) - through cross-functional collaboration with platform, perception, motion planning, cloud, and field testing teams.
+- Enhanced system stability and runtime reliability through memory, CPU, and bandwidth profiling, improving offline performance and reducing error rates.
+- Created interactive visualization and debugging tools with Folium, Plotly, and QGIS, enhancing map data analysis and accelerating issue resolution for ADAS development.
 
 <div class="center">
     <img src="../assets/lucid/Lucid_highway_assist.gif" style="width:47%;">

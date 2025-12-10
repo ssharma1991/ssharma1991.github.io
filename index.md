@@ -11,14 +11,16 @@ heading: Shashank Sharma
 
 ### “Engineering is the closest thing to magic that exists in the real world”
 
-I'm a Robotics Engineer who loves working on the latest trends in automation. I'm excited about using my interdisciplinary knowledge to solve challenging problems in transportation, manufacturing, and healthcare industry.
+I’m a Robotics Engineer passionate about advancing autonomy. My work blends machine learning, robotics, and interdisciplinary problem‑solving to tackle challenges in transportation, manufacturing, healthcare, and beyond.
 
-I am currently working at Dematic, Kion Mobile Automation as a Machine Learning Engineer. My responsibilities include research and development of robot mapping and localization (SLAM) algorithms for automated guided vehicles(AGVs) in warehouse environments, equipped with sensors like 2D/3D LiDAR, wheel odometry, IMU, and cameras. The software development is mostly done using C++, Python, and Robot Operating System(ROS).
+Currently, I’m a Senior Software Engineer at Lucid Motors, specializing in HD maps, navigation, and ADAS systems for autonomous driving. I design and optimize map delivery pipelines, integrate GNSS sensor data with TomTom APIs, and build visualization/debugging tools with Folium, Plotly, and QGIS to accelerate issue resolution.
 
-I have a Ph.D. in mechanical engineering, focusing on robotics, where I designed algorithms for simulation and synthesis of single-degree-of-freedom closed-loop mechanisms (parallel kinematic robots). During my Ph.D., I also developed SnappyXO, a laser-cut robotics kit to create mechanisms, structures, and robots, which ran a successful crowdfunding campaign. I have also supervised many undergraduates on robotics projects like walking bots, climbing bots, battle bots, biomimetic bots, self-driving cars, and drones. An online mechanism design platform, developed by me, is available here: [http://cadcam.eng.sunysb.edu](http://cadcam.eng.sunysb.edu)
+Previously, at Dematic (Kion Mobile Automation), I developed mapping and localization (SLAM) algorithms for automated guided vehicles (AGVs) in warehouse environments. My work improved accuracy and speed using 2D/3D LiDAR, wheel odometry, IMU, and cameras, with implementations in C++, Python, and ROS. I also built perception models for real‑time detection of forklifts, pallets, and people.
 
-As a part of Udacity's Self Driving Car Nanodegree program, I have worked with critical autonomous driving technologies like computer vision, deep learning, sensor fusion, localization, motion planning, behavior, control, and system integration. These projects and more can be found on my GitHub profile: [https://github.com/ssharma1991](https://github.com/ssharma1991) 
+I hold a Ph.D. in Mechanical Engineering (Robotics), where I designed algorithms for simulating and synthesizing closed‑loop mechanisms (parallel kinematic robots). During my Ph.D., I developed SnappyXO, a laser‑cut robotics kit for building mechanisms and robots, which ran a successful crowdfunding campaign. I’ve mentored undergraduates on projects ranging from walking and climbing bots to biomimetic robots, self‑driving cars, and drones. An online mechanism design platform I developed is available here: [http://cadcam.eng.sunysb.edu](http://cadcam.eng.sunysb.edu)
 
-On a weekend, you might find me section hiking the Appalachian Trail or camping in the backcountry. 
+I’ve also completed Udacity’s Self‑Driving Car Nanodegree, gaining hands‑on experience with computer vision, deep learning, sensor fusion, localization, motion planning, and control. Many of these projects are showcased on my GitHub here: : [https://github.com/ssharma1991](https://github.com/ssharma1991)
+
+Outside of engineering, I enjoy exploring nature through hiking and backcountry camping.
 
 Explorer. Engineer. Roboticist.
