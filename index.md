@@ -19,7 +19,7 @@ Previously, at Dematic (Kion Mobile Automation), I developed mapping and localiz
 
 I hold a Ph.D. in Mechanical Engineering (Robotics), where I designed algorithms for simulating and synthesizing closed‑loop mechanisms (parallel kinematic robots). During my Ph.D., I developed SnappyXO, a laser‑cut robotics kit for building mechanisms and robots, which ran a successful crowdfunding campaign. I’ve mentored undergraduates on projects ranging from walking and climbing bots to biomimetic robots, self‑driving cars, and drones. An online mechanism design platform I developed is available here: [http://cadcam.eng.sunysb.edu](http://cadcam.eng.sunysb.edu)
 
-I’ve also completed Udacity’s Self‑Driving Car Nanodegree, gaining hands‑on experience with computer vision, deep learning, sensor fusion, localization, motion planning, and control. Many of these projects are showcased on my GitHub here: : [https://github.com/ssharma1991](https://github.com/ssharma1991)
+I’ve also completed Udacity’s Self‑Driving Car Nanodegree, gaining hands‑on experience with computer vision, deep learning, sensor fusion, localization, motion planning, and control. Many of these projects are showcased on my GitHub here: [https://github.com/ssharma1991](https://github.com/ssharma1991)
 
 Outside of engineering, I enjoy exploring nature through hiking and backcountry camping.
 
